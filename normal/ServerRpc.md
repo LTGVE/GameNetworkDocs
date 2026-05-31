@@ -1,5 +1,5 @@
 # ServerRpc  ||  [RPC(RPCType.Server)]
-<div style="background: #fff0f0; border-left: 4px solid #ff0000; padding: 0.5em 1em; margin: 0.5em 0;">
+<div style="background: #804444; border-left: 4px solid #ff0000; padding: 0.5em 1em; margin: 0.5em 0;">
   🔴 <strong>注意：</strong> 所有的RPC方法必须以Rpc为结尾,且方法传参不能包含不可序列化的参数!
 </div>
 
